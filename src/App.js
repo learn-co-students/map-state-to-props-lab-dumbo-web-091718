@@ -13,4 +13,6 @@ class App extends Component {
   }
 }
 
+const mapStateToProps = {}
+
 export default App;
